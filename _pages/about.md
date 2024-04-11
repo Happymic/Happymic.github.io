@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Flavio sucks"
+title: "Happy ADC we love adc"
 author_profile: true
 redirect_from: 
   - /about/
