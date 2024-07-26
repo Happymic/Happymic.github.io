@@ -45,7 +45,6 @@ Hello! I'm Michael, a passionate researcher and developer in the field of Comput
 - [View Project](https://academic.github.io/blog/gaussian-splatting)
 ![Gaussian Splatting](https://yourimageurl.com/gaussian-splatting-preview.png)
 
-### Regular Skateboard to Electric Skateboard Conversion
 ### Convert my Skateboard to a electrical controlled one
 - **Description**: Converted a regular skateboard into an electric skateboard.
 - **Technologies**: Electronics, Arduino, C++
