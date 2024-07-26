@@ -1,13 +1,11 @@
 ---
 permalink: /
-title: "Welcome To My Blog"
+title: "About Me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-# About Me
-
 ## Introduction
 Hello! I'm Michael, a passionate researcher and developer in the field of Computer Science and Engineering. My main interests lie in multi-agent systems, machine learning, FPGA and Robotics System. I am currently a second-year student at Imperial College London, studying Electronic and Information Engineering.
 
