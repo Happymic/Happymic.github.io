@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 ## Introduction
-Hello! I'm Michael, a passionate researcher and developer in the field of Computer Science and Engineering. My main interests lie in multi-agent systems, machine learning, FPGA and Robotics System. I am currently a second-year student at Imperial College London, studying Electronic and Information Engineering.
+Hello! I'm Michael, a passionate researcher and developer in the field of Computer Science and Engineering. My main interests lie in multi-agent & multi objective learning systems, machine learning, FPGA and Robotics System. I am currently a second-year student at Imperial College London, studying Electronic and Information Engineering.
 
 ## Education
 - **Imperial College London**
@@ -46,12 +46,13 @@ Hello! I'm Michael, a passionate researcher and developer in the field of Comput
 ![Gaussian Splatting](https://yourimageurl.com/gaussian-splatting-preview.png)
 
 ### Regular Skateboard to Electric Skateboard Conversion
+### Convert my Skateboard to a electrical controlled one
 - **Description**: Converted a regular skateboard into an electric skateboard.
 - **Technologies**: Electronics, Arduino, C++
 - [View Project](https://academic.github.io/blog/electric-skateboard)
 ![Electric Skateboard](https://yourimageurl.com/electric-skateboard-preview.png)
 
-### IoT-Based ESP32 Tank-like Tracked Robot and Six-Axis Robot Control System Design and Development
+### IoT-Based ESP32 Chassis Tracked Robot with Six-Axis Robotic Arm Control System
 - **Description**: Developed control systems for an ESP32 tank-like tracked robot and a six-axis robot.
 - **Technologies**: IoT, ESP32, Arduino
 - [View Project](https://academic.github.io/blog/iot-robots)
@@ -70,10 +71,10 @@ Hello! I'm Michael, a passionate researcher and developer in the field of Comput
 - **Market Analysis**: Fundamental and technical analysis, market research
 
 ## Resumes
-- [Chinese Resume](https://academic.github.io/resume/chinese_resume.pdf)
-- [English Resume](https://academic.github.io/resume/english_resume.pdf)
+- [Chinese Resume](https://happymic.github.io/files/chinese_version_0608.pdf)
+- [English Resume](https://happymic.github.io/files/english_version_0608.pdf)
 
 ## Contact
 Feel free to reach out to me via [email](mailto:your.email@domain.com) or connect with me on [LinkedIn](https://linkedin.com/in/yourprofile).
 
-Thank you for visiting my blog!
+Thank you for visiting my blog!🫶
