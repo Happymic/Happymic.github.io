@@ -15,13 +15,13 @@ Hello! I'm Michael, a passionate researcher and developer in the field of Comput
 
 ## Projects
 
-### SAGIN Sky-Air-Ground Integrated Network UROP Simulation Platform Development
+### Multi-Objective Multi-Agent Deep Learning applied in Space-Air-Ground Integrated Network Simulation Platform Development (2024 Summer UROP)
 - **Description**: Developed a comprehensive simulation environment for SAGIN.
 - **Technologies**: Python, MATLAB, NS-3
-- [View Project](https://academic.github.io/blog/sagin-simulation)
+- [View Project](https://happymic.github.io/posts/sagin-simulation)
 ![SAGIN Simulation](https://yourimageurl.com/sagin-preview.png)
 
-### Intelligent Voice-Controlled Robotic Dog using ROS
+### Intelligent Voice-Controlled Robotic Dog with ROS2 
 - **Description**: Developed control systems for a voice-activated robotic dog using ROS.
 - **Technologies**: ROS, Python, C++, Linux
 - [View Project](https://academic.github.io/blog/robotic-dog)
@@ -45,7 +45,7 @@ Hello! I'm Michael, a passionate researcher and developer in the field of Comput
 - [View Project](https://academic.github.io/blog/gaussian-splatting)
 ![Gaussian Splatting](https://yourimageurl.com/gaussian-splatting-preview.png)
 
-### Convert my Skateboard to a electrical controlled one
+### Making an Electrical Skateboard - the Stuff about Controls in brushless motor
 - **Description**: Converted a regular skateboard into an electric skateboard.
 - **Technologies**: Electronics, Arduino, C++
 - [View Project](https://academic.github.io/blog/electric-skateboard)
@@ -64,7 +64,7 @@ Hello! I'm Michael, a passionate researcher and developer in the field of Comput
 ![FPGA Tutorials](https://yourimageurl.com/fpga-tutorials-preview.png)
 
 ## Skills
-- **Programming Languages**: Python, MATLAB, R, C++, Verilog HDL
+- **Programming Languages**: Python, MATLAB, R, C++, Verilog HDL, Java, JS
 - **Data Analysis**: Excel, Tableau, Power BI, SQL
 - **Simulation Software**: NS-3, AnyLogic
 - **Market Analysis**: Fundamental and technical analysis, market research
