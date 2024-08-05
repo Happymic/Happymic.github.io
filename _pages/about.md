@@ -24,7 +24,7 @@ Hello! I'm Michael, a passionate researcher and developer in the field of Comput
 ### Intelligent Voice-Controlled Robotic Dog with ROS2 
 - **Description**: Developed control systems for a voice-activated robotic dog using ROS.
 - **Technologies**: ROS, Python, C++, Linux
-- [View Project](https://academic.github.io/blog/robotic-dog)
+- [View Project](https://happymic.github.io/2019/08/blog-post-esp32/)
 ![Robotic Dog](https://yourimageurl.com/robotic-dog-preview.png)
 
 ### 3D Printed Mini Quadruped Robot
