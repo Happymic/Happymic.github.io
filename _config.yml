@@ -12,9 +12,10 @@ title                    : "Happymic's Blog"
 title_separator          : "-"
 name                     : &name "Michael"
 description              : &description "personal description"
+baseurl: "" # your repository's subfolder, e.g. /blog
 url                      : https://happymic.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "https://github.com/Happymic"
+repository               : "Happymic/Happymic.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
@@ -54,14 +55,14 @@ author:
   goodreads        : # Username
   google_plus      : # Username
   keybase          : # Username
-  instagram        : "Happymic233"
+  instagram        : "michaelli233"
   lastfm           : # Username
   linkedin         : # Username
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
   soundcloud       : # Username
-  steam            : "1420068760"
+  steam            : "1420068760@qq.com"
   telegram         : # URL
   tumblr           : # Username
   twitter          : # Username
