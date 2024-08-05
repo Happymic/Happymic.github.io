@@ -54,7 +54,7 @@ Hello! I'm Michael, a passionate researcher and developer in the field of Comput
 ### IoT-Based ESP32 Chassis Tracked Robot with Six-Axis Robotic Arm Control System
 - **Description**: Developed control systems for an ESP32 tank-like tracked robot and a six-axis robot.
 - **Technologies**: IoT, ESP32, Arduino
-- [View Project](https://academic.github.io/blog/iot-robots)
+- [View Project](https://academic.github.io/blog/2019/08/blog-post-esp32/)
 ![IoT Robots](https://yourimageurl.com/iot-robots-preview.png)
 
 ### FPGA Learning Notes and Beginner Tutorials
