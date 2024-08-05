@@ -74,6 +74,6 @@ Hello! I'm Michael, a passionate researcher and developer in the field of Comput
 - [English Resume](https://happymic.github.io/files/english_version_0608.pdf)
 
 ## Contact
-Feel free to reach out to me via [email](mailto:your.email@domain.com) or connect with me on [LinkedIn](https://linkedin.com/in/yourprofile).
+Feel free to reach out to me via [email](mailto:mcl123@ic.ac.uk) or connect with me on [LinkedIn](https://www.linkedin.com/in/michael-chenxu-li-640887207/).
 
 Thank you for visiting my blog!🫶
