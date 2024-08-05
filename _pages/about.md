@@ -18,7 +18,7 @@ Hello! I'm Michael, a passionate researcher and developer in the field of Comput
 ### Multi-Objective Multi-Agent Deep Learning applied in Space-Air-Ground Integrated Network Simulation Platform Development (2024 Summer UROP)
 - **Description**: Developed a comprehensive simulation environment for SAGIN.
 - **Technologies**: Python, MATLAB, NS-3
-- [View Project](https://happymic.github.io/posts/sagin-simulation)
+- [View Project](https://happymic.github.io/posts/saginsimulation)
 ![SAGIN Simulation](https://yourimageurl.com/sagin-preview.png)
 
 ### Intelligent Voice-Controlled Robotic Dog with ROS2 

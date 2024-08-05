@@ -1,7 +1,7 @@
 ---
-title: 'sagin-simulation.md'
+title: 'saginsimulation.md'
 date: 2019-08-14
-permalink: /posts/sagin-Simulation/
+permalink: /posts/saginsimulation/
 tags:
   - cool posts
   - ESP32
